@@ -29,4 +29,4 @@
 
 
 
-> <a href="https//www.github.com/kuwarp/javaScript-Basic/fizzbuzz.js">FizzBuzz Code link here</a>
+> <a href="./fizzbuzz.js">FizzBuzz Code link here</a>
